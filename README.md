@@ -1,5 +1,3 @@
-<h3 align="center">Web Developer.</h3>
-
 - 📫 Reach me on email **mesayusriana12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
